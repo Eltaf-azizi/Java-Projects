@@ -1,1 +1,1 @@
-<h1 align="center">Java-Projects</h1>
+<h1 align="center">Java Projects</h1>
