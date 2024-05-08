@@ -5,4 +5,4 @@
 (https://www.youtube.com/watch?v=dfhmTyRTCSQ&list=LL&index=3&t=1767s)
 
 ## Project Lists:
-**Calculator**: Calculating mathematical operations more efficiently and accurately
+**Calculator**: Calculating mathematical operations more efficiently and accurately.
