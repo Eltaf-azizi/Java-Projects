@@ -8,7 +8,7 @@ Source (https://www.youtube.com/watch?v=dfhmTyRTCSQ&list=LL&index=3&t=1767s)
 Source (https://www.youtube.com/watch?v=DyqMglmrido&list=LL&index=2)
 
 #### Number Guessing Game using Java:
-Source ()
+Source (https://www.youtube.com/watch?v=j_ax_yT7KW0&list=LL&index=1)
 
 ## Project Lists:
 **Calculator**: Calculating mathematical operations more efficiently and accurately.
