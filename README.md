@@ -7,6 +7,8 @@ Source (https://www.youtube.com/watch?v=dfhmTyRTCSQ&list=LL&index=3&t=1767s)
 #### Rock Paper Scissors game using Java:
 Source (https://www.youtube.com/watch?v=DyqMglmrido&list=LL&index=2)
 
+#### Number Guessing Game using java:
+
 ## Project Lists:
 **Calculator**: Calculating mathematical operations more efficiently and accurately.
 
