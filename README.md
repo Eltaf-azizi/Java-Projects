@@ -14,3 +14,5 @@ Source (https://www.youtube.com/watch?v=j_ax_yT7KW0&list=LL&index=1)
 **Calculator**: Calculating mathematical operations more efficiently and accurately.
 
  **Rock Paper Scissors**: It is a fun game between two players.
+
+ **Number Guessing Game**:
