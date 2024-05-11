@@ -12,5 +12,7 @@ Source (https://www.youtube.com/watch?v=j_ax_yT7KW0&list=LL&index=1)
 
 ## Project Lists:
 **Calculator**: Calculating mathematical operations more efficiently and accurately.
+
  **Rock Paper Scissors**: It is a fun game between two players.
+ 
  **Number Guessing Game**: A number guessing game is a simple game where the goal is to select a number within a certain range
