@@ -10,7 +10,8 @@ Source (https://www.youtube.com/watch?v=DyqMglmrido&list=LL&index=2)
 #### Number Guessing Game using Java:
 Source (https://www.youtube.com/watch?v=j_ax_yT7KW0&list=LL&index=1)
 
-#### BMI Calculator using Java
+#### BMI Calculator using Java:
+
 
 ## Project Lists:
 **Calculator**: Calculating mathematical operations more efficiently and accurately.
