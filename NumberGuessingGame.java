@@ -27,5 +27,6 @@ public class NumberGuessingGame {
                 System.out.println("Nope! The number is lower. Guess again.");
             }
         }
+        scanner.close();
     }
 }
