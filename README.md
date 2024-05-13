@@ -20,4 +20,4 @@ Source (https://www.youtube.com/watch?v=dzcsCZXmYzo&list=LL&index=2)
  
  **Number Guessing Game**: A number guessing game is a simple game where the goal is to select a number within a certain range.
 
-**BMI Calculator**: A BMI calculator is used to find out if a person has a healthy body weight for their height.
+**BMI Calculator**: A BMI calculator is used to determine if a person has a healthy body weight for their height.
