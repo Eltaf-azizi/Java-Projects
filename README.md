@@ -10,9 +10,14 @@ Source (https://www.youtube.com/watch?v=DyqMglmrido&list=LL&index=2)
 #### Number Guessing Game using Java:
 Source (https://www.youtube.com/watch?v=j_ax_yT7KW0&list=LL&index=1)
 
+#### BMI Calculator using Java:
+Source (https://www.youtube.com/watch?v=dzcsCZXmYzo&list=LL&index=2)
+
 ## Project Lists:
 **Calculator**: Calculating mathematical operations more efficiently and accurately.
 
  **Rock Paper Scissors**: It is a fun game between two players.
  
  **Number Guessing Game**: A number guessing game is a simple game where the goal is to select a number within a certain range.
+
+**BMI Calculator**: A BMI calculator determines if a person has a healthy body weight for height.BMI stands for Body Mass Index.
