@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class wordFinder {
+public class ScrabbleSolver {
     public static void main(String[] args) throws IOException{
 
         Scanner scanner = new Scanner(System.in);
@@ -54,4 +54,3 @@ public class wordFinder {
         return lettersCountMap;
     }
 }
-
