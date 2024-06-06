@@ -15,7 +15,17 @@ Source (https://www.youtube.com/watch?v=j_ax_yT7KW0&list=LL&index=1)
 #### BMI Calculator using Java:
 Source (https://www.youtube.com/watch?v=dzcsCZXmYzo&list=LL&index=2)
 
+#### Sudoku Solver using Java:
+Source (https://www.youtube.com/watch?v=mcXc8Mva2bA&list=LL&index=4)
 
+#### Scrabble Solver using Java:
+Source (https://www.youtube.com/watch?v=urqlvUX-Q-Q&list=LL&index=5)
+
+#### Map & HashMap using Java:
+Source (https://www.youtube.com/watch?v=H62Jfv1DJlU&list=LL&index=2)
+
+#### Tic Tac Toe using Java:
+Source (https://www.youtube.com/watch?v=rA7tfvpkw0I&list=LL&index=1&t=1345s)
 
 ## Project Lists:
 **Calculator**: Calculating mathematical operations more efficiently and accurately.
