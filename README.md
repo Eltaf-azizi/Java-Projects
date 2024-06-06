@@ -35,3 +35,9 @@ Source (https://www.youtube.com/watch?v=rA7tfvpkw0I&list=LL&index=1&t=1345s)
  **Number Guessing Game**: A number guessing game is a simple game where the goal is to select a number within a certain range.
 
 **BMI Calculator**: A BMI calculator determines if a person has a healthy body weight for height.BMI stands for Body Mass Index.
+
+**Sudoku Solver**: A Sudoku solver is a computational algorithm designed to solve Sudoku puzzles.
+
+**Scrabble Solver**: A Scrabble solver is a computational tool or algorithm designed to assist players in finding the best possible words from a given set of letters in the game of Scrabble.
+
+**Map & HashMap**: A hash is a function that converts an input (or 'message') into a fixed-length string of bytes.
