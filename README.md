@@ -1,5 +1,7 @@
 <h1 align="center">Java Projects</h1>
 
+This repository contains a collection of beginner-friendly Java projects designed to help new programmers practice and improve their Java skills.
+
 ## Resources:
 #### Calculator app using Java:
 Source (https://www.youtube.com/watch?v=dfhmTyRTCSQ&list=LL&index=3&t=1767s)
