@@ -41,3 +41,5 @@ Source (https://www.youtube.com/watch?v=rA7tfvpkw0I&list=LL&index=1&t=1345s)
 **Scrabble Solver**: A Scrabble solver is a computational tool or algorithm designed to assist players in finding the best possible words from a given set of letters in the game of Scrabble.
 
 **Map & HashMap**: A hash is a function that converts an input (or 'message') into a fixed-length string of bytes.
+
+**  **
