@@ -47,3 +47,4 @@ Source (https://www.youtube.com/watch?v=rA7tfvpkw0I&list=LL&index=1&t=1345s)
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
+1. Fork the repository.
