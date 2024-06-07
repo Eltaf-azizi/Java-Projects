@@ -43,3 +43,5 @@ Source (https://www.youtube.com/watch?v=rA7tfvpkw0I&list=LL&index=1&t=1345s)
 **Map & HashMap**: A hash is a function that converts an input (or 'message') into a fixed-length string of bytes.
 
 **Tic Tac Toe**: Tic Tac Toe is a classic two-player game where players mark spaces in a 3x3 grid with their respective symbols, typically "X" and "O".
+
+## Contributing
