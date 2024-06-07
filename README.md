@@ -45,3 +45,5 @@ Source (https://www.youtube.com/watch?v=rA7tfvpkw0I&list=LL&index=1&t=1345s)
 **Tic Tac Toe**: Tic Tac Toe is a classic two-player game where players mark spaces in a 3x3 grid with their respective symbols, typically "X" and "O".
 
 ## Contributing
+
+Contributions are welcome! Please follow these steps:
