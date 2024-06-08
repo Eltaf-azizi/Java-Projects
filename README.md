@@ -52,4 +52,3 @@ Contributions are welcome! Please follow these steps:
 3. Make and commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
-
