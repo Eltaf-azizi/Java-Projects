@@ -32,7 +32,7 @@ A simple application to manage a list of tasks. It allows users to add, remove, 
 ## Getting Started
 To run any of these projects, ensure you have Java installed on your machine. Clone this repository and navigate to the project directory you wish to run.
 
-     git clone https://github.com/Eltaf-azizi/Java-Projects.git cd Java-Projects
+     git clone https://github.com/Eltaf-azizi/Java-Projects.git
      
 Each project directory contains its own README.md with specific instructions on how to compile and run the project.
 
