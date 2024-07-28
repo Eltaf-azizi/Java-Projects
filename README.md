@@ -1,23 +1,30 @@
-<h1 align="center">Java Projects</h1>
+<h1 align="center">Java Projects</h1> 
 
-## Resources:
-#### Calculator app using Java:
-Source (https://www.youtube.com/watch?v=dfhmTyRTCSQ&list=LL&index=3&t=1767s)
+### 1. Tic Tac Toe
 
-#### Rock Paper Scissors game using Java:
-Source (https://www.youtube.com/watch?v=DyqMglmrido&list=LL&index=2)
+A classic game where two players take turns marking spaces in a 3x3 grid. The first player to align three of their marks vertically, horizontally, or diagonally wins.
+### 2. BMI Calculator
 
-#### Number Guessing Game using Java:
-Source (https://www.youtube.com/watch?v=j_ax_yT7KW0&list=LL&index=1)
+A simple application that calculates Body Mass Index (BMI) based on user input of height and weight. It also provides a category (underweight, normal weight, overweight, or obese) based on the BMI value.
+### 3. Calculator
 
-#### BMI Calculator using Java:
-Source (https://www.youtube.com/watch?v=dzcsCZXmYzo&list=LL&index=2)
+A basic calculator that performs arithmetic operations such as addition, subtraction, multiplication, and division.
+### 4. Map and HashMap
 
-## Project Lists:
-**Calculator**: Calculating mathematical operations more efficiently and accurately.
 
- **Rock Paper Scissors**: It is a fun game between two players.
- 
- **Number Guessing Game**: A number guessing game is a simple game where the goal is to select a number within a certain range.
+Demonstrates the use of Java's Map and HashMap classes for storing and retrieving key-value pairs. Includes examples of common operations such as insertion, deletion, and iteration.
+### 5. Number Guessing Game
 
-**BMI Calculator**: A BMI calculator determines if a person has a healthy body weight for height.BMI stands for Body Mass Index.
+A game where the player has to guess a randomly generated number within a certain range. The game provides feedback on whether the guess is too high or too low until the correct number is guessed.
+### 6. Rock Paper Scissors
+
+A simulation of the classic hand game where the player competes against the computer. The game follows the standard rules: rock beats scissors, scissors beats paper, and paper beats rock.
+### 7. Scrabble Solver
+
+A tool to help find valid words from a given set of letters, similar to the game of Scrabble. It uses a dictionary to check for valid words and provides possible word combinations.
+### 8. Sudoku Solver
+
+A program that solves Sudoku puzzles using backtracking algorithms. The user can input a Sudoku puzzle, and the program will find and display the solution.
+### 9. Todo List
+
+A simple application to manage a list of tasks. It allows users to add, remove, and mark tasks as completed. The tasks are stored and can be retrieved later.
